@@ -1,0 +1,1 @@
+{"Status":0,"TC":false,"RD":true,"RA":true,"AD":false,"CD":false,"Question":[{"name":"_mta-sts.example.com.","type":16}],"Authority":[{"name":"example.com.","type":6,"TTL":1800,"data":"ns.example.com. hostmaster.example.com. 1 1800 900 86400 900"}]}
